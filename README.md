@@ -2,28 +2,25 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+<!-- Website details and front end to be added later
+
 ![Screenshot of Website]()
 
-Link to website: 
+Link to website:  -->
 
   ## Table of Contents
   * [Description](#description)
-  * [Video Walkthrough](#video-walkthrough)
   * [Future Improvements](#future-improvements)
   * [License](#license)
   * [Questions?](#questions)
 
 
 ## Description
-
-
-
-## Video Walkthrough
-
+  A Java program that works in conjunction with the AssemblyAI REST API to turn audio files into text.
 
 
 ## Future Improvements
-
+  The primary goal is to add a responsive front end replete with options for user input/output and what is then done with that output. The AssemblyAI API is chock full of features, including but not limited to labels for different speakers in the same file, automatic punctuation, and word searching. Gaining more familiarity with all these features via AssemblyAI's documentation and testing them myself before implementing them in a website will be my next step.
     
 
 ## License
