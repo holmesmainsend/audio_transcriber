@@ -16,7 +16,7 @@ Link to website:  -->
 
 
 ## Description
-  A Java program that works in conjunction with the AssemblyAI REST API to turn audio files into text.
+  A Java program that works in conjunction with the AssemblyAI REST API to turn audio files into text. Note: still in early stages of development.
 
 
 ## Future Improvements
